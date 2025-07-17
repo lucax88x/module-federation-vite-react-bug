@@ -8,17 +8,17 @@
     "preview": "npm run build && vite preview --port 6001 --host"
   },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "@module-federation/runtime": "^0.17.0",
     "rxjs": "^7.8.1"
   },
   "devDependencies": {
-    "@module-federation/vite": "1.1.5",
-    "@types/react": "18.2.79",
-    "@types/react-dom": "18.2.25",
-    "@vitejs/plugin-react": "4.2.1",
-    "typescript": "5.4.5",
-    "vite": "5.2.10"
+    "@module-federation/vite": "1.6.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "4.6.0",
+    "typescript": "5.8.3",
+    "vite": "^7.0.0"
   }
 }
